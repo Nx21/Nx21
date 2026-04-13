@@ -1,4 +1,4 @@
-# Hi, I'm Nasreddine Hanafi 👋
+# Hi, I'm Nasreddine Hanafi 
 
 Software Engineer with experience in enterprise systems and high-performance computing.
 
@@ -6,7 +6,7 @@ Currently working at Oracle on backend systems and previously contributed to vec
 
 ---
 
-## 🧠 Areas of Interest
+##  Areas of Interest
 
 - Systems Programming (C / C++)
 - High-Performance Computing (CUDA)
@@ -16,19 +16,7 @@ Currently working at Oracle on backend systems and previously contributed to vec
 
 ---
 
-## 🚀 Featured Projects
-
-### CUDA Training — GPU Programming Practice
-Hands-on CUDA implementations exploring GPU memory models, parallel execution, and performance optimization.
-
-Tech:
-- CUDA
-- C++
-- GPU Computing
-
-🔗 https://github.com/Nx21/cuda_training
-
----
+##  Featured Projects
 
 ### DSLR — Data Science & Logistic Regression
 Implemented machine learning algorithms to classify datasets and visualize results.
@@ -39,6 +27,18 @@ Tech:
 - Data Visualization
 
 🔗 https://github.com/Nx21/dslr
+
+---
+
+### CUDA Training — GPU Programming Practice
+Hands-on CUDA implementations exploring GPU memory models, parallel execution, and performance optimization.
+
+Tech:
+- CUDA
+- C++
+- GPU Computing
+
+🔗 https://github.com/Nx21/cuda_training
 
 ---
 
@@ -86,7 +86,7 @@ CUDA, Linux, SQL, REST APIs, Docker
 
 ---
 
-## 📫 Contact
+##  Contact
 
 LinkedIn: https://www.linkedin.com/in/nasreddine-hanafi  
 Email: hanafi.nasredd@gmai.com
